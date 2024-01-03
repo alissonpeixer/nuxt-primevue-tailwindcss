@@ -1,4 +1,5 @@
-# Projeto Minimal Starter com PrimeVue e TailwindCSS para NuxtJS 3
+![image](https://github.com/alissonpeixer/primevue-tailwindcss/assets/48291580/c6f2a95c-3fb1-421b-bad3-eb57d03969cd)
+# Minimal Starter com PrimeVue e TailwindCSS para NuxtJS 3
 
 ## Sobre o Projeto
 
